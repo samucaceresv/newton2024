@@ -1,3 +1,5 @@
+#Solucionario del ejercitario de manipulacion de Strings de la UNI
+
 #1
 """
 nombre_usuario = "Josias"
