@@ -76,22 +76,3 @@ else:
 
 
 
-
-
-correo = 'josiascaceresvillalba@gmail.com'
-
-#para extraer nombre
-arroba = correo.find('@')
-
-nombre_usuario = correo[0: arroba]
-
-print(nombre_usuario)
-
-#para extraer el dominio
-punto = correo.find('.')
-
-dominio = correo[arroba + 1:punto]
-
-print(dominio)
-
-
